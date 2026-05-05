@@ -69,9 +69,7 @@ Primary dataset used:
 
 ### Detection Performance
 
-
-
-
+<img width="1382" height="939" alt="centroid_separation_plot" src="https://github.com/user-attachments/assets/cb010677-ab4c-4956-91c2-95d2103ae7b9" />
 
 ---
 
